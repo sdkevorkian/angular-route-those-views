@@ -1,8 +1,16 @@
 #Routing those Views
 
-Create a 3-5 page front-end app using Angular. This could be a portfolio site, an extension of the Star Wars assignment, or anything else you want to make. The main goals are to ensure that you understand the angular router, and to solidify your understanding of `$scope`, controllers, directives, and templates.
+Create a 3-5 page front-end app using Angular. Make a page
+dedicated to describing different characters in a TV show, or 
+a site dedicated to your favorite artist or band. Maybe make
+a multi-page site describing some of your different features
+of neighborhoods in Seattle. You can really make a page about
+anything you like. The main goals are to ensure that you understand
+the angular router, and to solidify your understanding of `$scope`,
+controllers, directives, and templates.
 
-Feel free to play with different directives and style the site appropriately.
+Feel free to play with different directives and style the site
+appropriately.
 
 ##Examples
 
